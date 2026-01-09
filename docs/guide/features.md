@@ -1,3 +1,5 @@
+![1000136650](https://github.com/user-attachments/assets/a737c068-c5c0-474d-a40b-8c69e58bd715)
+![1000139318](https://github.com/user-attachments/assets/33d8a62d-c125-48bf-bc53-90965f8a224f)
 # Features
 
 At the very basic level, developing using Vite is not that different from using a static file server. However, Vite provides many enhancements over native ESM imports to support various features that are typically seen in bundler-based setups.
